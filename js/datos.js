@@ -7,7 +7,7 @@ const tienda = [
     "precio": 13.20,
     "publicacion": 1990,
     "copias": 120,
-    "caratula": "https://images-na.ssl-images-amazon.com/images/I/71o6gIerHwL._SY355_.jpg"
+    "caratula": "https://s.mxmcdn.net/images-storage/albums5/0/3/7/2/3/5/32532730_350_350.jpg"
   },
   {
     "titulo": "Recopilatorio de fados",
